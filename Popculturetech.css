@@ -5,7 +5,7 @@ min-width: 1150px;
 overflow-x: hidden;
 }
 body{
-background-image:url("../pop_culture/Images/bground.jpg");
+background-image:url("Images/bground.jpg");
 background-repeat: no-repeat;
 background-position: center;
 min-width: 1150px;}
@@ -20,7 +20,7 @@ min-width: 1150px;}
 }
 @font-face {
 font-family:SaucerBBimport;
-src:url("../pop_culture/Images/SaucerBB.ttf");
+src:url("..Images/SaucerBB.ttf");
 }
 .logotext{
     text-align: center;
