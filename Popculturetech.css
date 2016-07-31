@@ -20,7 +20,7 @@ min-width: 1150px;}
 }
 @font-face {
 font-family:SaucerBBimport;
-src:url("..Images/SaucerBB.ttf");
+src:url("Images/SaucerBB.ttf");
 }
 .logotext{
     text-align: center;
